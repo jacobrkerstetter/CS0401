@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.*;
 
-public class 2DArrayExercise1
+public class 2DArrayExercise
 {
     public static void main( String[] args )
     {
