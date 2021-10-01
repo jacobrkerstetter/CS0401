@@ -9,7 +9,7 @@
 	
 import java.io.*;
 import java.util.*;
-public class Exercise1
+public class ExceptionsExercise
 {
 	public static void main( String args[] ) 
 	{
