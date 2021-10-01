@@ -2,7 +2,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Mult
+public class RecursiveMultiplication
 {
 	public static void main(String [] args)
 	{	// CHANGE NOTHING IN MAIN
