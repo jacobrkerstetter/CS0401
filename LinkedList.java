@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class LList
+public class LinkedList
 {
 	private Node head;  // REF TO 1ST ELEM IN LIST
 
