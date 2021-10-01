@@ -1,4 +1,4 @@
-public class Fraction
+public class FirstFraction
 {
 	private int numer;
 	private int denom;
