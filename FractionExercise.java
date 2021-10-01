@@ -4,7 +4,7 @@
    ** data members are PRIVATE
    ** method members are PUBLIC
 */
-public class Fraction
+public class FractionExercise
 {
 	// DO NOT MODIFY THE CODE BELOW - USE AS GIVEN
 
